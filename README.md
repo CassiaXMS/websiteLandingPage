@@ -41,3 +41,5 @@ O website conterá as seguinte seções:
 
 ###  Contribuições
  Equipe de desenvolvimento: 
+ 
+ Feito por Cassia Xavier e franciele Procopio 👋🏽 Entre em contato!
